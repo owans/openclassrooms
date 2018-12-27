@@ -1,11 +1,10 @@
 body{
-    background: lightgreen;
+    background: rgb(238, 171, 144);
 }
 
 nav{
     background: black;
     margin: 0;
-    margin-top: 0;
 }
 
 h1{
